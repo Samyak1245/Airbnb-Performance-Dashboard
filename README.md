@@ -31,5 +31,5 @@ https://samyak1245.github.io/Airbnb-Performance-Dashboard/
 
 ## Notes
 
-- The dataset is largely synthetic and is meant for demonstration.
+- The dataset is synthetic
 - Occupancy = booked nights ÷ (booked + available nights). All values are in USD.
