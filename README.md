@@ -6,7 +6,7 @@ An interactive dashboard that tracks how a portfolio of 71 Airbnb properties per
 
 **[Open the dashboard](https://samyak1245.github.io/Airbnb-Performance-Dashboard/)**
 
-https://samyak1245.github.io/Airbnb-Performance-Dashboard/
+// https://samyak1245.github.io/Airbnb-Performance-Dashboard/
 
 ## What it shows
 
